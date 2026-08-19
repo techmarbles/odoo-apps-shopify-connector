@@ -5,6 +5,7 @@
     'summary': """
         Real-time two-way sync between Shopify and Odoo.
         Orders, products, inventory, customers, invoices and fulfillment.
+        Works with Odoo Online, Odoo.sh and self-hosted.
     """,
 
     'description': """
@@ -26,7 +27,7 @@ Key Features:
 
 Compatibility:
 - Odoo 16, 17, 18 and 19+
-- Odoo Online, Odoo.sh and on-premise
+- Odoo Online, Odoo.sh and self-hosted (no code on your server)
 - All Shopify plans, including Shopify Plus
 - App available in English, Spanish, French, German and Italian
 
@@ -52,7 +53,7 @@ policy at https://techmarbles.com/odoo-app-privacy-policy/
     'support': "support@techmarbles.com",
     'live_test_url': "https://apps.shopify.com/odoo-integrator",
     'category': 'Sales/Sales',
-    'version': '17.0.1.0.2',
+    'version': '17.0.1.0.3',
 
     'depends': ['base', 'stock', 'sale_management', 'account'],
 
