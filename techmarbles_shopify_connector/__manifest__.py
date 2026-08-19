@@ -53,7 +53,7 @@ policy at https://techmarbles.com/odoo-app-privacy-policy/
     'support': "support@techmarbles.com",
     'live_test_url': "https://apps.shopify.com/odoo-integrator",
     'category': 'Sales/Sales',
-    'version': '19.0.1.0.3',
+    'version': '19.0.1.0.4',
 
     'depends': ['base', 'stock', 'sale_management', 'account'],
 
